@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snglrtycrvtureofspce-YandexCup", "snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup.csproj", "{BB799FAC-1EB2-4A07-8092-3FAC4D30B8A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snglrtycrvtureofspce-YandexCup-FamiliarizationContest", "snglrtycrvtureofspce-YandexCup-FamiliarizationContest\snglrtycrvtureofspce-YandexCup-FamiliarizationContest.csproj", "{7212CA79-E9AA-48FE-97F2-2CB1EE54A2C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{BB799FAC-1EB2-4A07-8092-3FAC4D30B8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB799FAC-1EB2-4A07-8092-3FAC4D30B8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB799FAC-1EB2-4A07-8092-3FAC4D30B8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7212CA79-E9AA-48FE-97F2-2CB1EE54A2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7212CA79-E9AA-48FE-97F2-2CB1EE54A2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7212CA79-E9AA-48FE-97F2-2CB1EE54A2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7212CA79-E9AA-48FE-97F2-2CB1EE54A2C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
