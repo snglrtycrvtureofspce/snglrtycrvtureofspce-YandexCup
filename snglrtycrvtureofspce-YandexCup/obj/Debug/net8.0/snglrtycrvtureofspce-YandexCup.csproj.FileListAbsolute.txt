@@ -1,0 +1,17 @@
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\bin\Debug\net8.0\snglrtycrvtureofspce-YandexCup.exe
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\bin\Debug\net8.0\snglrtycrvtureofspce-YandexCup.deps.json
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\bin\Debug\net8.0\snglrtycrvtureofspce-YandexCup.runtimeconfig.json
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\bin\Debug\net8.0\snglrtycrvtureofspce-YandexCup.dll
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\bin\Debug\net8.0\snglrtycrvtureofspce-YandexCup.pdb
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\obj\Debug\net8.0\snglrtycrvtureofspce-YandexCup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\obj\Debug\net8.0\snglrtycrvtureofspce-YandexCup.AssemblyInfoInputs.cache
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\obj\Debug\net8.0\snglrtycrvtureofspce-YandexCup.AssemblyInfo.cs
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\obj\Debug\net8.0\snglrtycrvtureofspce-YandexCup.csproj.CoreCompileInputs.cache
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\obj\Debug\net8.0\snglrtycrvtureofspce-YandexCup.dll
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\obj\Debug\net8.0\refint\snglrtycrvtureofspce-YandexCup.dll
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\obj\Debug\net8.0\snglrtycrvtureofspce-YandexCup.pdb
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\obj\Debug\net8.0\snglrtycrvtureofspce-YandexCup.genruntimeconfig.cache
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\obj\Debug\net8.0\ref\snglrtycrvtureofspce-YandexCup.dll
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\obj\Debug\net8.0\snglrtycrvtureofspce-YandexCup.csproj.AssemblyReference.cache
+C:\Users\asp1r\OneDrive\Документы\snglrtycrvtureofspce\Git\GitHub\snglrtycrvtureofspce-YandexCup\snglrtycrvtureofspce-YandexCup\obj\Debug\net8.0\snglrtyc.9090EAFA.Up2Date
